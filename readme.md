@@ -15,6 +15,9 @@ https://discord.com/developers/applications/981380028463980605/information
 1. Discord 機器人 EP.1-建立自己的機器人！ || 狗勾ニオわんわん的手把手教學 ( https://www.youtube.com/watch?v=sLbMNZQHNms&t=861s )
 2. Discord 機器人 EP.2-讓你的機器人24小時都運作吧！ || 狗勾ニオわんわん的手把手教學 ( https://www.youtube.com/watch?v=9bgszug4NJE )
 
+# discord host server
+1. https://dashboard.heroku.com/apps
+
 
 # to trigger this
    ``` 
